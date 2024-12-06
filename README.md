@@ -9,12 +9,12 @@
 | 	6	| 	Interface administrasi sekretaris	| 	ok	 | 
 | 	7	| 	Interface dashboard submission history	| 	ok	 | 
 | 	8	| 	Interface submission history	| 	ok	 | 
-| 	9	| 	Interface manage master list	| 	ok	 | 
-| 	10	| 	Interface manage USER	| 	ok	 | 
-| 	11	| 	Interface manage UNIT	| 	ok	 | 
-| 	12	| 	Interface homepage (seperti AMS)	| 	ok	 | 
-| 	13	| 	Interface workflow notification	| 	ok	 | 
-| 	14	| 	Interface manage stamp template	| 	ok	 | 
+| 	9	| 	Interface manage master list	| 	not ok	 | 
+| 	10	| 	Interface manage USER	| 	not ok	 | 
+| 	11	| 	Interface manage UNIT	| 	not ok	 | 
+| 	12	| 	Interface homepage (seperti AMS)	| 	not ok	 | 
+| 	13	| 	Interface workflow notification	| 	not ok	 | 
+| 	14	| 	Interface manage stamp template	| 	not ok	 | 
 | 		| 		| 		 | 
 | 	**B**	| 	**Exercise Material**	| 	 	 | 
 | 	1	| 	Master List Drawing	| 	ok	 | 
