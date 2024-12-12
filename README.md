@@ -20,5 +20,5 @@
 | 	1	| 	Master List Drawing	| 	ok	 | 
 | 	2	| 	Daftar User (include manage user)	| 	ok	 | 
 | 	3	| 	Flowchart	| 	ok	 | 
-| 	4	| 	Stamp Template	| 	not ok	 | 
-| 	5	| 	Paraf	| 	not ok	 | 
+| 	4	| 	Stamp Template	| 	ok	 | 
+| 	5	| 	Paraf	| 	ok	 | 
