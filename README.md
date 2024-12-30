@@ -22,3 +22,10 @@
 | 	3	| 	Flowchart	| 	ok	 | 
 | 	4	| 	Stamp Template	| 	ok	 | 
 | 	5	| 	Paraf	| 	ok	 | 
+<br/>
+<br/>
+Additional Material:
+<br/> 30 Desember 2024:
+<br/> - Interface landing page pada Menu Review (daftar surat masuk yang masih dalam proses review)
+<br/> - Master List Drawing Revisi UPDATE 1
+<br/> - User testing file (drawing submittal dari kontraktor)
